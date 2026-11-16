@@ -6,13 +6,13 @@
 
 [![Neon Drift oyun ekranı — oynamak için tıkla](assets/preview.jpg)](https://fozdemiroglu.github.io/neon-drift/)
 
-Neon yollarda sür, elmasları topla ve trafikten kaç. İkinci turda su birikintileri ve şerit değiştiren araçlara dikkat!
+Neon yollarda sür, elmasları topla ve trafikten kaç. Yolda arabaların yanında motosikletler ve uzun otobüsler de var; ara ara yol S virajla kıvrılıyor. İkinci turda su birikintileri ve şerit değiştiren araçlara dikkat!
 
 ---
 
 FOZ Yapım sunar.
 
-Neon araba oyunu: beş araba rengi, Minik sürücü ve Klasik modları, üç can, elmaslar ve kalkan. İkinci turdan itibaren su birikintileri ve sinyal vererek şerit değiştiren araçlar bulunur.
+Neon araba oyunu: beş araba rengi, Minik sürücü ve Klasik modları, üç can, elmaslar ve kalkan. İkinci turdan itibaren su birikintileri ve sinyal vererek şerit değiştiren araçlar bulunur. Trafikte arabalar, dar ve çevik motosikletler ile iki şerit boyu uzun otobüsler vardır. Belirli aralıklarla gelen S virajları hiç çarpmadan geçersen “Viraj ustası” +50 puan kazanırsın.
 
 ## Kontroller
 
